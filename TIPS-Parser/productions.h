@@ -1,8 +1,7 @@
 /*********************************************************************
-  Name: Caleb Kirkland             NetID: cok18
-  Course: CSE 4714              
-  Project Part 2 - Parsing
-  Purpose of File: Recursive Descent Parser for subset of TIPs. 
+  Name: Caleb Kirkland           
+  Project - TIPS Parsing
+  Purpose of File: Recursive Descent Parser for TIPS 
 **********************************************************************/
 #ifndef PRODUCTIONS_H
 #define PRODUCTIONS_H
